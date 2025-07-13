@@ -17,8 +17,13 @@
 `Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1`
 
 
-![png]()
-
+![png](https://github.com/vajnichev/9-03-hw/blob/main/img/9.3.1.png)
+![png](https://github.com/vajnichev/9-03-hw/blob/main/img/9.3.2.png)
+![png](https://github.com/vajnichev/9-03-hw/blob/main/img/9.3.3.png)
+![png](https://github.com/vajnichev/9-03-hw/blob/main/img/9.3.4.png)
+![png](https://github.com/vajnichev/9-03-hw/blob/main/img/9.3.5.png)
+![png](https://github.com/vajnichev/9-03-hw/blob/main/img/9.3.6.png)
+![png](https://github.com/vajnichev/9-03-hw/blob/main/img/9.3.7.png)
 ### Задание 2
 
  `Установите Zabbix Agent на два хоста.`
